@@ -1,0 +1,22 @@
+// _ means that it marks as a partial. it wont convert to css on it's own
+
+//COLORS
+$offblack: #10050B;
+$offwhite: #e8e8e8;
+$grey: #454545;
+$gray: $grey;
+
+$purple-dk: #451F59;
+$purple: #754473;
+$pink: #AA6383;
+$peach: #D79C96;
+
+$color-base: $offblack;
+$color-border: $offblack;
+$highlight: $purple-dk;
+$color-background: $offwhite;
+
+
+//FONTS. Usually no more than two font stacks
+$font-base: Futura, 'Trebuchet MS', Arial, sans-seriff;
+$font-heading: Rockwell, "Courier Bold", Courier, Georgia, Times, "Times New Roman", serif;
